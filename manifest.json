@@ -1,0 +1,39 @@
+{
+  "name": "#ExamplePWA",
+  "short_name": "#ExamplePWA",
+  "description": "Wellcome to my example of PWA",
+  "background_color": "#2B2B2B",
+  "theme_color": "#F0DB4F",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "./?utm_source=web_app_manifest",
+  "scope": "./",
+  "lang": "es-ES",
+  "icons": [     
+    {
+      "src": "./img/roberto128x128.ico",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+      {
+      "src": "./img/roberto64x64.ico",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/roberto48x48.ico",
+      "sizes": "48x48",
+      "type": "image/png"
+    }, 
+    {
+      "src": "./img//roberto32x32.ico",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/favicon16x16.ico",
+      "sizes": "16x16",
+      "type": "image/png"
+    }
+  ]
+}
