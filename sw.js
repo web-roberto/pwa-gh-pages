@@ -10,8 +10,7 @@ const CACHE_NAME = 'v1_cache_example_pwa',
     './style.css',
     './script.js',
     './img/roberto128x128.ico',
-    './img/favicon16x16.ico',
-    './gallonastya.mp4'
+    './img/favicon16x16.ico'  
   ]
 
 //durante la fase de instalación, generalmente se almacena en caché los activos estáticos
